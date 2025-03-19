@@ -1,0 +1,51 @@
+Date,Product,Quantity Sold,Unit Price (INR),Total Sales (INR),Customer Type,Location
+2023-01-01,Eggs,120,3,360,Retail,Guwahati
+2023-01-02,Chicken,15,250,3750,Restaurant,Dispur
+2023-01-03,Duck Eggs,100,4,400,Wholesale,Jorhat
+2023-01-04,Eggs,200,2.5,500,Retail,Silchar
+2023-01-05,Chicken,10,260,2600,Retail,Dibrugarh
+2023-01-06,Chicken,20,245,4900,Wholesale,Tezpur
+2023-01-07,Eggs,150,3.2,480,Distributor,Nagaon
+2023-01-08,Duck Eggs,80,4.5,360,Retail,Bongaigaon
+2023-01-09,Chicken,12,255,3060,Restaurant,Tinsukia
+2023-01-10,Eggs,180,3,540,Retail,Goalpara
+2023-01-11,Chicken,18,260,4680,Wholesale,Karimganj
+2023-01-12,Duck Eggs,90,4,360,Retail,Lakhimpur
+2023-01-13,Eggs,140,3,420,Retail,Guwahati
+2023-01-14,Chicken,22,240,5280,Restaurant,Dispur
+2023-01-15,Duck Eggs,75,4.2,315,Wholesale,Jorhat
+2023-01-16,Eggs,160,2.8,448,Retail,Silchar
+2023-01-17,Chicken,17,250,4250,Distributor,Dibrugarh
+2023-01-18,Eggs,130,3.5,455,Retail,Tezpur
+2023-01-19,Chicken,14,255,3570,Wholesale,Nagaon
+2023-01-20,Duck Eggs,85,4,340,Restaurant,Bongaigaon
+2023-01-21,Eggs,190,3,570,Retail,Tinsukia
+2023-01-22,Chicken,16,265,4240,Restaurant,Goalpara
+2023-01-23,Duck Eggs,95,4.3,408.5,Wholesale,Karimganj
+2023-01-24,Eggs,170,3.1,527,Retail,Lakhimpur
+2023-01-25,Chicken,13,250,3250,Restaurant,Guwahati
+2023-01-26,Duck Eggs,110,4.1,451,Distributor,Dispur
+2023-01-27,Eggs,155,3,465,Retail,Jorhat
+2023-01-28,Chicken,19,245,4655,Wholesale,Silchar
+2023-01-29,Duck Eggs,70,4.2,294,Retail,Dibrugarh
+2023-01-30,Eggs,165,3.2,528,Restaurant,Tezpur
+2023-01-31,Chicken,12,260,3120,Retail,Nagaon
+2023-02-01,Duck Eggs,100,4.5,450,Wholesale,Bongaigaon
+2023-02-02,Eggs,145,3,435,Retail,Tinsukia
+2023-02-03,Chicken,20,250,5000,Restaurant,Goalpara
+2023-02-04,Duck Eggs,85,4,340,Wholesale,Karimganj
+2023-02-05,Eggs,200,2.9,580,Retail,Lakhimpur
+2023-02-06,Chicken,18,255,4590,Distributor,Guwahati
+2023-02-07,Duck Eggs,75,4.5,337.5,Retail,Dispur
+2023-02-08,Eggs,160,3.3,528,Wholesale,Jorhat
+2023-02-09,Chicken,14,250,3500,Restaurant,Silchar
+2023-02-10,Duck Eggs,90,4.2,378,Retail,Dibrugarh
+2023-02-11,Eggs,150,3,450,Wholesale,Tezpur
+2023-02-12,Chicken,17,260,4420,Restaurant,Nagaon
+2023-02-13,Duck Eggs,80,4.1,328,Retail,Bongaigaon
+2023-02-14,Eggs,175,3.2,560,Wholesale,Tinsukia
+2023-02-15,Chicken,13,245,3185,Restaurant,Goalpara
+2023-02-16,Duck Eggs,100,4,400,Retail,Karimganj
+2023-02-17,Eggs,190,3,570,Distributor,Lakhimpur
+2023-02-18,Chicken,15,250,3750,Retail,Guwahati
+2023-02-19,Duck Eggs,95,4.2,399,Wholesale,Dispur
