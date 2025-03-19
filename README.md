@@ -20,28 +20,35 @@ The Sales Data Analytics Tool is a web-based platform that enables businesses to
 ### Installation
 
 1. Clone the Repository
+   ```cmd
    git clone <repository-url>
    cd <repository-directory>
 
 2. Create and Activate a Virtual Environment
+   ```cmd
    python -m venv venv
    venv\Scripts\activate
 
 3. Install Dependencies
-   pip install -r requirements.txt
+   ```cmd
+    pip install -r requirements.txt
 
 4. Configure Environment Variables
+   
    Create a .env file in the project root and add:
+   ```cmd
    SECRET_KEY=your_generated_secret_key
 
-5. Database Setup
+6. Database Setup
    Update config.py with your MySQL credentials.
    Initialize the database:
+   ```cmd
    flask db init
    flask db migrate -m "Initial migration"
    flask db upgrade
 
-6. Run the Application
+7. Run the Application
+   ```cmd
    flask run
 
 The application should now be running at http://127.0.0.1:5000/.
